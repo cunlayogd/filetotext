@@ -10,7 +10,7 @@
     "require": {},
 	"autoload": {
 	    "psr-4": {
-            "Redstar\\Libs\\": "src"
+            "Wholehogsoftware\\Libs\\": "src"
 		}
 	},
 	"license": "PHP-3.01"

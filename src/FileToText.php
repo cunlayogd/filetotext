@@ -1,6 +1,6 @@
 <?php
 
-namespace Redstar\Libs;
+namespace Wholehogsoftware\Libs;
 
 class FileToText {
 
