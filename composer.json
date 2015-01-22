@@ -1,0 +1,17 @@
+{
+    "name": "wholehogsoftware/filetotext",
+    "description": "Adaptation of the phpclasses.org class",
+    "authors": [
+        {
+            "name": "PHP Classes Guy",
+            "email": "wholehogsoftware@gmail.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+	    "psr-4": {
+            "Redstar\\Libs\\": "src"
+		}
+	},
+	"license": "PHP-3.01"
+}
