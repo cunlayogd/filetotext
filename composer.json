@@ -1,16 +1,24 @@
 {
     "name": "wholehogsoftware/filetotext",
     "description": "Adaptation of the phpclasses.org class",
+    "type": "Library",
     "authors": [
         {
             "name": "PHP Classes Guy",
             "email": "wholehogsoftware@gmail.com"
         }
     ],
-    "require": {},
-	"autoload": {
-	    "psr-4": {
-            "Wholehogsoftware\\Libs\\": "src"
+    "require": {
+    	"php": ">=5.4.0"
+    },
+    "autoload": {
+	"psr-4": {
+		"Wholehogsoftware\\Libs\\": "src"
+	}
+    },
+	"extra": {
+		"branch-alias": {
+		"dev-master": "1.0.5-dev"
 		}
 	},
 	"license": "PHP-3.01"
